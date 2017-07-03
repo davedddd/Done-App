@@ -16,5 +16,8 @@
   <author email="davedodddd@gmail.com">
       David Dodd
   </author>
-
+  
+<platform>
+<icon src="todoAppIcon/doneIcon180.png" width="180" height="180" />
+</platform>
 </widget>
